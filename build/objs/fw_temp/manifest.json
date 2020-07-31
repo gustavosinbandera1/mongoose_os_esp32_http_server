@@ -1,0 +1,63 @@
+{
+  "build_id": "20200731-210507/latest-g8037c32-master-dirty",
+  "build_timestamp": "2020-07-31T21:05:07Z",
+  "name": "demo-c",
+  "parts": {
+    "app": {
+      "addr": 65536,
+      "cs_sha1": "2dca8c50a4ead9d31a12b184d8c378c672352adc",
+      "cs_sha256": "8064db4d2b28b33c911d7d72e8be82f55c01c9c7e8fa1cf50c429cae124f8531",
+      "encrypt": true,
+      "ptn": "app_0",
+      "size": 1477328,
+      "src": "demo-c.bin",
+      "type": "app"
+    },
+    "boot": {
+      "addr": 4096,
+      "cs_sha1": "3ae0cc34e1a1043627eac439a496851d43f8af99",
+      "cs_sha256": "05173a7de385cd5666f2ea01cc3500ca945cc617d8589f07402cdde70a09c8f0",
+      "encrypt": true,
+      "size": 23152,
+      "src": "bootloader.bin",
+      "type": "boot",
+      "update": false
+    },
+    "fs": {
+      "cs_sha1": "2fd05b5824eb8395afc04b6f791da518674cc571",
+      "cs_sha256": "ab83732e2d61321ecdb233c96c9f5365ebe748bcb1af42c756d4e9d62e2c8b51",
+      "fs_size": 262144,
+      "ptn": "fs_0",
+      "size": 262144,
+      "src": "fs.img",
+      "type": "fs"
+    },
+    "nvs": {
+      "addr": 36864,
+      "encrypt": false,
+      "fill": 255,
+      "size": 16384,
+      "type": "nvs"
+    },
+    "otadata": {
+      "addr": 53248,
+      "cs_sha1": "471af83fac6e5bd49355879b3acbed10bab6f423",
+      "cs_sha256": "dd76e54da59f6824fb93d2b92b36d10932b06801d167b25c08ebc27e78391b6c",
+      "encrypt": true,
+      "size": 8192,
+      "src": "otadata.bin",
+      "type": "otadata"
+    },
+    "pt": {
+      "addr": 32768,
+      "cs_sha1": "1d31498bef0ca43611e2c095836ce6b8d777419c",
+      "cs_sha256": "307f83cba8b30c1bdf9b2e176c761a742c22c104d40a5118c64da4e2934b1fb1",
+      "encrypt": true,
+      "size": 3072,
+      "src": "partitions_mgos.bin",
+      "type": "pt"
+    }
+  },
+  "platform": "esp32",
+  "version": "1.0"
+}

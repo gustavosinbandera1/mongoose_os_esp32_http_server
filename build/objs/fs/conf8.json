@@ -1,0 +1,9 @@
+{
+  "wifi": {
+    "sta": {
+      "enable": true,
+      "ssid": "HOME-EB05",
+      "pass": "D8ED78ECC6372942"
+    }
+  }
+}

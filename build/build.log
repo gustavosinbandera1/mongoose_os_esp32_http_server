@@ -1,0 +1,1517 @@
+Handling lib "Board"...
+Handling lib "demo-bundle"...
+Handling lib "zz_boards"...
+Board: Prepared local dir: "/home/gustavosinbandera1/mongoose-os/custom-libs/Board"
+Handling lib "core"...
+Handling lib "Server"...
+Server: Prepared local dir: "/home/gustavosinbandera1/mongoose-os/custom-libs/Server"
+demo-bundle: Checking out 2.17.0...
+zz_boards: Checking out 2.17.0...
+core: Checking out 2.17.0...
+zz_boards: Done, hash 897a76f9b7306751dea4596f38df4486548ae2da
+demo-bundle: Done, hash 1e22c49075afa299a9fb560db59b7d87875163ed
+zz_boards: Hash unchanged at 897a76f9b7306751dea4596f38df4486548ae2da (dir "/home/gustavosinbandera1/mos-libs/boards")
+zz_boards: Prepared local dir: "/home/gustavosinbandera1/mos-libs/boards"
+demo-bundle: Hash unchanged at 1e22c49075afa299a9fb560db59b7d87875163ed (dir "/home/gustavosinbandera1/mos-libs/demo-bundle")
+demo-bundle: Prepared local dir: "/home/gustavosinbandera1/mos-libs/demo-bundle"
+core: Done, hash c7359ef09e0f75bd693d88672ba9665b84d0e46a
+core: Hash unchanged at c7359ef09e0f75bd693d88672ba9665b84d0e46a (dir "/home/gustavosinbandera1/mos-libs/core")
+core: Prepared local dir: "/home/gustavosinbandera1/mos-libs/core"
+Handling lib "ethernet"...
+Handling lib "ota-http-client"...
+Handling lib "ota-http-server"...
+Handling lib "rpc-service-i2c"...
+Handling lib "i2c"...
+Handling lib "http-server"...
+/home/gustavosinbandera1/mos-libs/http-server exists and is dirty, leaving it intact
+
+http-server: Hash unchanged at 0d04893ce2f8c594e4e13b570edf8a9af132746e (dir "/home/gustavosinbandera1/mos-libs/http-server")
+http-server: Prepared local dir: "/home/gustavosinbandera1/mos-libs/http-server"
+ethernet: Checking out 2.17.0...
+rpc-service-i2c: Checking out 2.17.0...
+ota-http-client: Checking out 2.17.0...
+i2c: Checking out 2.17.0...
+ota-http-server: Checking out 2.17.0...
+ethernet: Done, hash 76d87dbee3bcd5d7203e5f9bc3b164e5539511cc
+ethernet: Hash unchanged at 76d87dbee3bcd5d7203e5f9bc3b164e5539511cc (dir "/home/gustavosinbandera1/mos-libs/ethernet")
+ethernet: Prepared local dir: "/home/gustavosinbandera1/mos-libs/ethernet"
+rpc-service-i2c: Done, hash 0ae1956a03d37c07adab58059fd457c37b2cba12
+rpc-service-i2c: Hash unchanged at 0ae1956a03d37c07adab58059fd457c37b2cba12 (dir "/home/gustavosinbandera1/mos-libs/rpc-service-i2c")
+rpc-service-i2c: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-i2c"
+ota-http-client: Done, hash e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+i2c: Done, hash adf8fa47daa2b8d0e1a5b729f095f77e85e6797b
+ota-http-server: Done, hash 6a4130f33dcde4940c079aef9c734d869df62f3b
+i2c: Hash unchanged at adf8fa47daa2b8d0e1a5b729f095f77e85e6797b (dir "/home/gustavosinbandera1/mos-libs/i2c")
+i2c: Prepared local dir: "/home/gustavosinbandera1/mos-libs/i2c"
+ota-http-server: Hash unchanged at 6a4130f33dcde4940c079aef9c734d869df62f3b (dir "/home/gustavosinbandera1/mos-libs/ota-http-server")
+ota-http-server: Prepared local dir: "/home/gustavosinbandera1/mos-libs/ota-http-server"
+ota-http-client: Hash unchanged at e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b (dir "/home/gustavosinbandera1/mos-libs/ota-http-client")
+ota-http-client: Prepared local dir: "/home/gustavosinbandera1/mos-libs/ota-http-client"
+Handling lib "aws"...
+Handling lib "provision"...
+Handling lib "dash"...
+Handling lib "ca-bundle"...
+Handling lib "rpc-service-fs"...
+Handling lib "rpc-service-gpio"...
+Handling lib "fstab"...
+Handling lib "rpc-service-config"...
+Handling lib "neopixel"...
+Handling lib "rpc-uart"...
+Handling lib "shadow"...
+Handling lib "rpc-ws"...
+Handling lib "sntp"...
+rpc-ws: Checking out 2.17.0...
+provision: Checking out 2.17.0...
+aws: Checking out 2.17.0...
+fstab: Checking out 2.17.0...
+dash: Checking out 2.17.0...
+ca-bundle: Checking out 2.17.0...
+rpc-service-config: Checking out 2.17.0...
+rpc-service-fs: Checking out 2.17.0...
+neopixel: Checking out 2.17.0...
+rpc-service-gpio: Checking out 2.17.0...
+sntp: Checking out 2.17.0...
+rpc-uart: Checking out 2.17.0...
+shadow: Checking out 2.17.0...
+rpc-ws: Done, hash e8e507f4a91eb96a0c664fa33319b2e4f0ed89b2
+aws: Done, hash 9b27a5c4a9c8f0a35282b5b82b27c201923734b3
+provision: Done, hash 86b02414390c2237219cf1a3720c1e78b54d8e78
+fstab: Done, hash 82cf05dda7e817a4aa4518003957c35fdfb178dc
+ca-bundle: Done, hash c6a3caec6567790ba33b448c5550ec032b20914f
+dash: Done, hash 28b419f421aa9c40675621befeb3d96d79cb520f
+rpc-service-fs: Done, hash 7edeecacec8ed276aa83485ae8879219dfface29
+sntp: Done, hash 42591292134b829afbceeecd1d52cd510dd922c2
+rpc-ws: Hash unchanged at e8e507f4a91eb96a0c664fa33319b2e4f0ed89b2 (dir "/home/gustavosinbandera1/mos-libs/rpc-ws")
+rpc-ws: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-ws"
+rpc-service-config: Done, hash b30e187977d8dafcb4297cff60e036855a7ff531
+neopixel: Done, hash 0909f0d259717bca7274331a76f714422f47f9b2
+rpc-service-gpio: Done, hash 7b8c83ea02aec666536bd5c761d94833ea8df569
+shadow: Done, hash 0be68cac8bbfeb1e45b5a516118243cecce1ec8f
+aws: Hash unchanged at 9b27a5c4a9c8f0a35282b5b82b27c201923734b3 (dir "/home/gustavosinbandera1/mos-libs/aws")
+rpc-uart: Done, hash 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+aws: Prepared local dir: "/home/gustavosinbandera1/mos-libs/aws"
+provision: Hash unchanged at 86b02414390c2237219cf1a3720c1e78b54d8e78 (dir "/home/gustavosinbandera1/mos-libs/provision")
+provision: Prepared local dir: "/home/gustavosinbandera1/mos-libs/provision"
+fstab: Hash unchanged at 82cf05dda7e817a4aa4518003957c35fdfb178dc (dir "/home/gustavosinbandera1/mos-libs/fstab")
+fstab: Prepared local dir: "/home/gustavosinbandera1/mos-libs/fstab"
+ca-bundle: Hash unchanged at c6a3caec6567790ba33b448c5550ec032b20914f (dir "/home/gustavosinbandera1/mos-libs/ca-bundle")
+ca-bundle: Prepared local dir: "/home/gustavosinbandera1/mos-libs/ca-bundle"
+dash: Hash unchanged at 28b419f421aa9c40675621befeb3d96d79cb520f (dir "/home/gustavosinbandera1/mos-libs/dash")
+dash: Prepared local dir: "/home/gustavosinbandera1/mos-libs/dash"
+rpc-service-fs: Hash unchanged at 7edeecacec8ed276aa83485ae8879219dfface29 (dir "/home/gustavosinbandera1/mos-libs/rpc-service-fs")
+rpc-service-fs: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-fs"
+sntp: Hash unchanged at 42591292134b829afbceeecd1d52cd510dd922c2 (dir "/home/gustavosinbandera1/mos-libs/sntp")
+sntp: Prepared local dir: "/home/gustavosinbandera1/mos-libs/sntp"
+rpc-service-config: Hash unchanged at b30e187977d8dafcb4297cff60e036855a7ff531 (dir "/home/gustavosinbandera1/mos-libs/rpc-service-config")
+rpc-service-config: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-config"
+neopixel: Hash unchanged at 0909f0d259717bca7274331a76f714422f47f9b2 (dir "/home/gustavosinbandera1/mos-libs/neopixel")
+neopixel: Prepared local dir: "/home/gustavosinbandera1/mos-libs/neopixel"
+rpc-service-gpio: Hash unchanged at 7b8c83ea02aec666536bd5c761d94833ea8df569 (dir "/home/gustavosinbandera1/mos-libs/rpc-service-gpio")
+rpc-service-gpio: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-gpio"
+shadow: Hash unchanged at 0be68cac8bbfeb1e45b5a516118243cecce1ec8f (dir "/home/gustavosinbandera1/mos-libs/shadow")
+shadow: Prepared local dir: "/home/gustavosinbandera1/mos-libs/shadow"
+rpc-uart: Hash unchanged at 4c68e5d7b3eecb19ccc6128f111a118384ed20b4 (dir "/home/gustavosinbandera1/mos-libs/rpc-uart")
+rpc-uart: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-uart"
+Handling lib "mongoose"...
+mongoose: Checking out 2.17.0...
+mongoose: Done, hash 08dafbf084c7c25207f28b00948df04b0c218844
+mongoose: Hash unchanged at 08dafbf084c7c25207f28b00948df04b0c218844 (dir "/home/gustavosinbandera1/mos-libs/mongoose")
+mongoose: Prepared local dir: "/home/gustavosinbandera1/mos-libs/mongoose"
+Handling lib "lwip"...
+lwip: Checking out 2.17.0...
+lwip: Done, hash 640217d5bdfe58e24374df56dae76e52b1881441
+lwip: Hash unchanged at 640217d5bdfe58e24374df56dae76e52b1881441 (dir "/home/gustavosinbandera1/mos-libs/lwip")
+lwip: Prepared local dir: "/home/gustavosinbandera1/mos-libs/lwip"
+Handling lib "rpc-common"...
+rpc-common: Checking out 2.17.0...
+rpc-common: Done, hash 7f1fa52a0ee6ac88bd344691086f176c7fc448a9
+rpc-common: Hash unchanged at 7f1fa52a0ee6ac88bd344691086f176c7fc448a9 (dir "/home/gustavosinbandera1/mos-libs/rpc-common")
+rpc-common: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-common"
+Handling lib "ota-common"...
+ota-common: Checking out 2.17.0...
+ota-common: Done, hash 8a552a23da06f8d9e9e50b0c2c46680c8a875c30
+ota-common: Hash unchanged at 8a552a23da06f8d9e9e50b0c2c46680c8a875c30 (dir "/home/gustavosinbandera1/mos-libs/ota-common")
+ota-common: Prepared local dir: "/home/gustavosinbandera1/mos-libs/ota-common"
+Handling lib "mqtt"...
+mqtt: Checking out 2.17.0...
+mqtt: Done, hash 8d6644499c2ec20da9b9fcc6aefd008f2f48e442
+mqtt: Hash unchanged at 8d6644499c2ec20da9b9fcc6aefd008f2f48e442 (dir "/home/gustavosinbandera1/mos-libs/mqtt")
+mqtt: Prepared local dir: "/home/gustavosinbandera1/mos-libs/mqtt"
+Handling lib "vfs-common"...
+vfs-common: Checking out 2.17.0...
+vfs-common: Done, hash 6e0af5a5e886b051160c9948218c7419c662e1e3
+vfs-common: Hash unchanged at 6e0af5a5e886b051160c9948218c7419c662e1e3 (dir "/home/gustavosinbandera1/mos-libs/vfs-common")
+vfs-common: Prepared local dir: "/home/gustavosinbandera1/mos-libs/vfs-common"
+Handling lib "ota-shadow"...
+ota-shadow: Checking out 2.17.0...
+ota-shadow: Done, hash b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Hash unchanged at b3b148e5c6c21ae226143c1f8025facea51228fc (dir "/home/gustavosinbandera1/mos-libs/ota-shadow")
+ota-shadow: Prepared local dir: "/home/gustavosinbandera1/mos-libs/ota-shadow"
+Handling lib "mbedtls"...
+mbedtls: Checking out 2.17.0...
+mbedtls: Done, hash ec0fd0c129ce35edb64ec45f512a42e76ef64623
+mbedtls: Hash unchanged at ec0fd0c129ce35edb64ec45f512a42e76ef64623 (dir "/home/gustavosinbandera1/mos-libs/mbedtls")
+mbedtls: Prepared local dir: "/home/gustavosinbandera1/mos-libs/mbedtls"
+Handling lib "atca"...
+atca: Checking out 2.17.0...
+atca: Done, hash 8fc5370f2244244e91973316bac28fd5a19528f9
+atca: Hash unchanged at 8fc5370f2244244e91973316bac28fd5a19528f9 (dir "/home/gustavosinbandera1/mos-libs/atca")
+atca: Prepared local dir: "/home/gustavosinbandera1/mos-libs/atca"
+Handling lib "vfs-fs-spiffs"...
+Handling lib "vfs-fs-lfs"...
+Handling lib "freertos"...
+vfs-fs-lfs: Checking out 2.17.0...
+vfs-fs-spiffs: Checking out 2.17.0...
+freertos: Checking out 2.17.0...
+vfs-fs-spiffs: Done, hash 12850caac96f1ea6278d21a661d93a11228de4c3
+vfs-fs-lfs: Done, hash c62bb1e71eadacda195ae550b767bca4d3452c6a
+freertos: Done, hash b8ed791ec9e61a5784f3ae78829b2ef2d1aca638
+vfs-fs-spiffs: Hash unchanged at 12850caac96f1ea6278d21a661d93a11228de4c3 (dir "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs")
+vfs-fs-spiffs: Prepared local dir: "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs"
+vfs-fs-lfs: Hash unchanged at c62bb1e71eadacda195ae550b767bca4d3452c6a (dir "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs")
+vfs-fs-lfs: Prepared local dir: "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs"
+freertos: Hash unchanged at b8ed791ec9e61a5784f3ae78829b2ef2d1aca638 (dir "/home/gustavosinbandera1/mos-libs/freertos")
+freertos: Prepared local dir: "/home/gustavosinbandera1/mos-libs/freertos"
+Handling lib "azure"...
+Handling lib "rpc-azure"...
+Handling lib "rpc-gatts"...
+Handling lib "rpc-service-ota"...
+Handling lib "rpc-loopback"...
+Handling lib "rpc-mqtt"...
+Handling lib "bt-service-debug"...
+Handling lib "dht"...
+Handling lib "rpc-service-atca"...
+Handling lib "rpc-gcp"...
+Handling lib "dns-sd"...
+Handling lib "vfs-dev-spi-flash"...
+Handling lib "rpc-service-wifi"...
+Handling lib "spi"...
+Handling lib "gcp"...
+Handling lib "watson"...
+Handling lib "adc"...
+Handling lib "wifi"...
+rpc-azure: Checking out 2.17.0...
+gcp: Checking out 2.17.0...
+rpc-mqtt: Checking out 2.17.0...
+rpc-loopback: Checking out 2.17.0...
+azure: Checking out 2.17.0...
+dht: Checking out 2.17.0...
+rpc-service-ota: Checking out 2.17.0...
+watson: Checking out 2.17.0...
+vfs-dev-spi-flash: Checking out 2.17.0...
+rpc-gatts: Checking out 2.17.0...
+rpc-service-atca: Checking out 2.17.0...
+rpc-gcp: Checking out 2.17.0...
+rpc-service-wifi: Checking out 2.17.0...
+spi: Checking out 2.17.0...
+bt-service-debug: Checking out 2.17.0...
+adc: Checking out 2.17.0...
+wifi: Checking out 2.17.0...
+rpc-azure: Done, hash 583eca916b05f6639bd5846c044e3c6e24ee9be7
+gcp: Done, hash 5783969990211e5a8c0810d3e93efd8a557a4120
+rpc-azure: Hash unchanged at 583eca916b05f6639bd5846c044e3c6e24ee9be7 (dir "/home/gustavosinbandera1/mos-libs/rpc-azure")
+rpc-azure: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-azure"
+rpc-loopback: Done, hash dec04b4ec1205e3fbf017a2cd3a5a3d8eceacd04
+rpc-mqtt: Done, hash bf134e13dd6b41d680b1de92918145f2fe2ace23
+azure: Done, hash 7d2356a726ea91c57c145ffd061792a1276eca55
+dht: Done, hash 3392941cb081cc7051287303b64c837dabe52e21
+rpc-service-ota: Done, hash 136c3e34bf6a831e5fc00e1d59f90fe475445987
+watson: Done, hash c855e5a552356199e651c6f83eb1121a2de3b533
+vfs-dev-spi-flash: Done, hash 38cf753b346a2f601012ab3614fcf5d42ce418b3
+rpc-gatts: Done, hash 87545f80b1d8f34ad17e2b6ee3bb2f3aeb707869
+rpc-service-atca: Done, hash 0aed9229793dca970b543722dab0541afa08a39b
+rpc-gcp: Done, hash 94b9cea4c0d6c5865398b1a088db20d5e6ba2c79
+rpc-service-wifi: Done, hash 8137701f88a0f53b1460351ed4bda9496c77ef45
+rpc-loopback: Hash unchanged at dec04b4ec1205e3fbf017a2cd3a5a3d8eceacd04 (dir "/home/gustavosinbandera1/mos-libs/rpc-loopback")
+rpc-loopback: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-loopback"
+rpc-mqtt: Hash unchanged at bf134e13dd6b41d680b1de92918145f2fe2ace23 (dir "/home/gustavosinbandera1/mos-libs/rpc-mqtt")
+rpc-mqtt: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-mqtt"
+spi: Done, hash bef6469b5f6f860cc18d4c9a77a590b5ff39924f
+gcp: Hash unchanged at 5783969990211e5a8c0810d3e93efd8a557a4120 (dir "/home/gustavosinbandera1/mos-libs/gcp")
+gcp: Prepared local dir: "/home/gustavosinbandera1/mos-libs/gcp"
+azure: Hash unchanged at 7d2356a726ea91c57c145ffd061792a1276eca55 (dir "/home/gustavosinbandera1/mos-libs/azure")
+azure: Prepared local dir: "/home/gustavosinbandera1/mos-libs/azure"
+bt-service-debug: Done, hash b1465e04671a43aee99fd5f0d53e496a90e54853
+dht: Hash unchanged at 3392941cb081cc7051287303b64c837dabe52e21 (dir "/home/gustavosinbandera1/mos-libs/dht")
+dht: Prepared local dir: "/home/gustavosinbandera1/mos-libs/dht"
+adc: Done, hash 701578369ee44326537d9b8d33915a92a2e7024b
+watson: Hash unchanged at c855e5a552356199e651c6f83eb1121a2de3b533 (dir "/home/gustavosinbandera1/mos-libs/watson")
+watson: Prepared local dir: "/home/gustavosinbandera1/mos-libs/watson"
+rpc-service-ota: Hash unchanged at 136c3e34bf6a831e5fc00e1d59f90fe475445987 (dir "/home/gustavosinbandera1/mos-libs/rpc-service-ota")
+rpc-service-ota: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-ota"
+vfs-dev-spi-flash: Hash unchanged at 38cf753b346a2f601012ab3614fcf5d42ce418b3 (dir "/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash")
+vfs-dev-spi-flash: Prepared local dir: "/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash"
+wifi: Done, hash 851f55fda6d1b873284d5c4847bec3f13bcc638f
+rpc-gatts: Hash unchanged at 87545f80b1d8f34ad17e2b6ee3bb2f3aeb707869 (dir "/home/gustavosinbandera1/mos-libs/rpc-gatts")
+rpc-gatts: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-gatts"
+rpc-service-atca: Hash unchanged at 0aed9229793dca970b543722dab0541afa08a39b (dir "/home/gustavosinbandera1/mos-libs/rpc-service-atca")
+rpc-service-atca: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-atca"
+rpc-gcp: Hash unchanged at 94b9cea4c0d6c5865398b1a088db20d5e6ba2c79 (dir "/home/gustavosinbandera1/mos-libs/rpc-gcp")
+rpc-gcp: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-gcp"
+rpc-service-wifi: Hash unchanged at 8137701f88a0f53b1460351ed4bda9496c77ef45 (dir "/home/gustavosinbandera1/mos-libs/rpc-service-wifi")
+rpc-service-wifi: Prepared local dir: "/home/gustavosinbandera1/mos-libs/rpc-service-wifi"
+spi: Hash unchanged at bef6469b5f6f860cc18d4c9a77a590b5ff39924f (dir "/home/gustavosinbandera1/mos-libs/spi")
+spi: Prepared local dir: "/home/gustavosinbandera1/mos-libs/spi"
+bt-service-debug: Hash unchanged at b1465e04671a43aee99fd5f0d53e496a90e54853 (dir "/home/gustavosinbandera1/mos-libs/bt-service-debug")
+bt-service-debug: Prepared local dir: "/home/gustavosinbandera1/mos-libs/bt-service-debug"
+adc: Hash unchanged at 701578369ee44326537d9b8d33915a92a2e7024b (dir "/home/gustavosinbandera1/mos-libs/adc")
+adc: Prepared local dir: "/home/gustavosinbandera1/mos-libs/adc"
+wifi: Hash unchanged at 851f55fda6d1b873284d5c4847bec3f13bcc638f (dir "/home/gustavosinbandera1/mos-libs/wifi")
+wifi: Prepared local dir: "/home/gustavosinbandera1/mos-libs/wifi"
+dns-sd: Does not exist, cloning from "https://github.com/mongoose-os-libs/dns-sd"...
+WARNING: the lib "dns-sd" does not have version 2.17.0. Resorting to latest, but the build might fail.
+It usually happens if you clone the latest version of some example app, and try to build it with the mos tool which is older than the lib (in this case, "dns-sd").
+Consider using the version 2.17.0 of the app (git checkout 2.17.0), or using latest mos tool (mos update latest).
+dns-sd: Checking out master...
+dns-sd: Done, hash b72a078951f8ef7a58be9233ae64deaa6071cfa7
+dns-sd: Hash unchanged at b72a078951f8ef7a58be9233ae64deaa6071cfa7 (dir "/home/gustavosinbandera1/mos-libs/dns-sd")
+dns-sd: Prepared local dir: "/home/gustavosinbandera1/mos-libs/dns-sd"
+Handling lib "bt-common"...
+bt-common: Checking out 2.17.0...
+bt-common: Done, hash 9262dc56410ef9f87ae67c38bc639cddca118e98
+bt-common: Hash unchanged at 9262dc56410ef9f87ae67c38bc639cddca118e98 (dir "/home/gustavosinbandera1/mos-libs/bt-common")
+bt-common: Prepared local dir: "/home/gustavosinbandera1/mos-libs/bt-common"
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Checking out 2.17.0...
+mongoose-os: Done, hash c31a7453f6754f80acab6b1b229fc097bf411f37
+Prebuilt binary for "mbedtls" already exists at "/home/gustavosinbandera1/binaries/libmbedtls-esp32-2.17.0.a"
+Prebuilt binary for "mongoose" already exists at "/home/gustavosinbandera1/binaries/libmongoose-esp32-2.17.0.a"
+Prebuilt binary for "ota-common" already exists at "/home/gustavosinbandera1/binaries/libota-common-esp32-2.17.0.a"
+Prebuilt binary for "ota-http-client" already exists at "/home/gustavosinbandera1/binaries/libota-http-client-esp32-2.17.0.a"
+Prebuilt binary for "ota-http-server" already exists at "/home/gustavosinbandera1/binaries/libota-http-server-esp32-2.17.0.a"
+Prebuilt binary for "ota-shadow" already exists at "/home/gustavosinbandera1/binaries/libota-shadow-esp32-2.17.0.a"
+Prebuilt binary for "dash" already exists at "/home/gustavosinbandera1/binaries/libdash-esp32-2.17.0.a"
+Prebuilt binary for "rpc-service-ota" already exists at "/home/gustavosinbandera1/binaries/librpc-service-ota-esp32-2.17.0.a"
+Sources: [/home/gustavosinbandera1/mongoose-os/apps/demo-c/src/main.cpp /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/mgos_deps_init.c /home/gustavosinbandera1/mos-libs/freertos/src/mgos_freertos.c /home/gustavosinbandera1/mos-libs/freertos/src/mgos_freertos_core_dump.c /home/gustavosinbandera1/mos-libs/i2c/src/mgos_i2c_master.c /home/gustavosinbandera1/mos-libs/i2c/src/esp32/esp32_i2c_master.c /home/gustavosinbandera1/mos-libs/atca/src/mgos_atca.c /home/gustavosinbandera1/mos-libs/atca/src/mgos_atca_hal.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/atca_cfgs.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/atca_command.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/atca_device.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/atca_execution.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/atca_iface.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_aes.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_aes_cbc.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_aes_cmac.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_aes_ctr.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_aes_gcm.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_checkmac.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_counter.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_derivekey.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_ecdh.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_gendig.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_genkey.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_hmac.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_info.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_kdf.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_lock.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_mac.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_nonce.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_privwrite.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_random.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_read.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_secureboot.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_selftest.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_sha.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_sign.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_updateextra.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_verify.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_basic_write.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic/atca_helpers.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/host/atca_host.c /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/mbedtls/atca_mbedtls_wrap.c /home/gustavosinbandera1/mos-libs/vfs-common/src/mgos_vfs.c /home/gustavosinbandera1/mos-libs/vfs-common/src/mgos_vfs_dev.c /home/gustavosinbandera1/mos-libs/vfs-common/src/mgos_vfs_internal.c /home/gustavosinbandera1/mos-libs/vfs-common/src/esp32/esp32_fs.c /home/gustavosinbandera1/mos-libs/vfs-common/src/esp32/esp32_fs_crypt.c /home/gustavosinbandera1/mos-libs/vfs-common/src/esp32/esp32_vfs_dev_partition.c /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/src/mgos_vfs_lfs.c /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs/lfs.c /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs/lfs_util.c /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1/lfs1.c /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1/lfs1_util.c /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs/spiffs_check.c /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /home/gustavosinbandera1/mos-libs/core/src/mgos_core.c /home/gustavosinbandera1/mos-libs/ethernet/src/mgos_eth.c /home/gustavosinbandera1/mos-libs/ethernet/src/esp32/esp32_eth.c /home/gustavosinbandera1/mos-libs/http-server/src/mgos_http_server.c /home/gustavosinbandera1/mos-libs/rpc-common/src/mg_rpc.c /home/gustavosinbandera1/mos-libs/rpc-common/src/mg_rpc_channel.c /home/gustavosinbandera1/mos-libs/rpc-common/src/mg_rpc_channel_http.c /home/gustavosinbandera1/mos-libs/rpc-common/src/mgos_rpc.c /home/gustavosinbandera1/mos-libs/rpc-service-i2c/src/mgos_i2c_service.c /home/gustavosinbandera1/mongoose-os/custom-libs/Board/src/mgos_board.cpp /home/gustavosinbandera1/mongoose-os/custom-libs/Server/src/mgos_server.cpp /home/gustavosinbandera1/mos-libs/adc/src/esp32/esp32_adc.c /home/gustavosinbandera1/mos-libs/mqtt/src/mgos_mqtt.c /home/gustavosinbandera1/mos-libs/mqtt/src/mgos_mqtt_conn.c /home/gustavosinbandera1/mos-libs/shadow/src/mgos_shadow.c /home/gustavosinbandera1/mos-libs/aws/src/mgos_aws.c /home/gustavosinbandera1/mos-libs/aws/src/mgos_aws_greengrass.c /home/gustavosinbandera1/mos-libs/aws/src/mgos_aws_shadow.c /home/gustavosinbandera1/mos-libs/sntp/src/mgos_sntp.c /home/gustavosinbandera1/mos-libs/azure/src/mgos_azure.c /home/gustavosinbandera1/mos-libs/azure/src/mgos_azure_cm.c /home/gustavosinbandera1/mos-libs/azure/src/mgos_azure_dm.c /home/gustavosinbandera1/mos-libs/azure/src/mgos_azure_sas.c /home/gustavosinbandera1/mos-libs/azure/src/mgos_azure_shadow.c /home/gustavosinbandera1/mos-libs/bt-common/src/mgos_bt.c /home/gustavosinbandera1/mos-libs/bt-common/src/mgos_bt_gap.c /home/gustavosinbandera1/mos-libs/bt-common/src/mgos_bt_js.c /home/gustavosinbandera1/mos-libs/bt-common/src/esp32/esp32_bt.c /home/gustavosinbandera1/mos-libs/bt-common/src/esp32/esp32_bt_gap.c /home/gustavosinbandera1/mos-libs/bt-common/src/esp32/esp32_bt_gattc.c /home/gustavosinbandera1/mos-libs/bt-common/src/esp32/esp32_bt_gatts.c /home/gustavosinbandera1/mos-libs/bt-service-debug/src/mgos_bt_svc_debug.c /home/gustavosinbandera1/mos-libs/rpc-ws/src/mgos_rpc_channel_ws.c /home/gustavosinbandera1/mos-libs/rpc-ws/src/mgos_rpc_ws.c /home/gustavosinbandera1/mos-libs/dht/src/mgos_dht.c /home/gustavosinbandera1/mos-libs/dns-sd/src/lwip/lwip_mdns.c /home/gustavosinbandera1/mos-libs/dns-sd/src/mongoose/mgos_dns_sd.c /home/gustavosinbandera1/mos-libs/dns-sd/src/mongoose/mgos_mdns.c /home/gustavosinbandera1/mos-libs/fstab/src/mgos_fstab.c /home/gustavosinbandera1/mos-libs/gcp/src/mgos_gcp.c /home/gustavosinbandera1/mos-libs/neopixel/src/mgos_neopixel.c /home/gustavosinbandera1/mos-libs/provision/src/mgos_provision.c /home/gustavosinbandera1/mos-libs/provision/src/mgos_provision_btn.c /home/gustavosinbandera1/mos-libs/provision/src/mgos_provision_led.c /home/gustavosinbandera1/mos-libs/provision/src/mgos_provision_state.c /home/gustavosinbandera1/mos-libs/rpc-azure/src/mgos_rpc_channel_azure_dm.c /home/gustavosinbandera1/mos-libs/rpc-gatts/src/mgos_rpc_channel_gatts.c /home/gustavosinbandera1/mos-libs/rpc-gcp/src/mgos_rpc_channel_gcp.c /home/gustavosinbandera1/mos-libs/rpc-loopback/src/mg_rpc_channel_loopback.c /home/gustavosinbandera1/mos-libs/rpc-mqtt/src/mgos_rpc_channel_mqtt.c /home/gustavosinbandera1/mos-libs/rpc-service-atca/src/mgos_atca_service.c /home/gustavosinbandera1/mos-libs/rpc-service-config/src/mgos_service_config.c /home/gustavosinbandera1/mos-libs/rpc-service-fs/src/mgos_service_fs.c /home/gustavosinbandera1/mos-libs/rpc-service-gpio/src/mgos_gpio_service.c /home/gustavosinbandera1/mos-libs/wifi/src/mgos_wifi.c /home/gustavosinbandera1/mos-libs/wifi/src/mjs_wifi.c /home/gustavosinbandera1/mos-libs/wifi/src/esp32/esp32_wifi.c /home/gustavosinbandera1/mos-libs/rpc-service-wifi/src/mgos_rpc_service_wifi.c /home/gustavosinbandera1/mos-libs/rpc-uart/src/mgos_rpc_channel_uart.c /home/gustavosinbandera1/mos-libs/spi/src/mgos_spi.c /home/gustavosinbandera1/mos-libs/spi/src/mgos_spi_mjs.c /home/gustavosinbandera1/mos-libs/spi/src/esp32/esp32_spi_master.c /home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/src/mgos_vfs_dev_spi_flash.c /home/gustavosinbandera1/mos-libs/watson/src/mgos_watson.c /home/gustavosinbandera1/mos-libs/demo-bundle/src/mgos_demo_bundle.c]
+Include dirs: [/home/gustavosinbandera1/mos-libs/freertos/include /home/gustavosinbandera1/mos-libs/freertos/include/esp32 /home/gustavosinbandera1/mos-libs/i2c/include /home/gustavosinbandera1/mos-libs/atca/include /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/crypto /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/hal /home/gustavosinbandera1/mos-libs/mbedtls/include /home/gustavosinbandera1/mos-libs/mbedtls/include/esp32 /home/gustavosinbandera1/mos-libs/mbedtls/mbedtls/include /home/gustavosinbandera1/mos-libs/vfs-common/include /home/gustavosinbandera1/mos-libs/vfs-common/include/esp32 /home/gustavosinbandera1/mos-libs/mongoose/include /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/include /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1 /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/spiffs /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/esp32 /home/gustavosinbandera1/mos-libs/core/include /home/gustavosinbandera1/mos-libs/core/include/esp32 /home/gustavosinbandera1/mos-libs/http-server/include /home/gustavosinbandera1/mos-libs/ota-common/src /home/gustavosinbandera1/mos-libs/ota-common/include /home/gustavosinbandera1/mos-libs/ota-common/include/esp32 /home/gustavosinbandera1/mos-libs/ota-http-client/include /home/gustavosinbandera1/mos-libs/rpc-common/include /home/gustavosinbandera1/mos-libs/rpc-service-i2c/include /home/gustavosinbandera1/mongoose-os/custom-libs/Board/include /home/gustavosinbandera1/mongoose-os/custom-libs/Server/include /home/gustavosinbandera1/mos-libs/adc/include /home/gustavosinbandera1/mos-libs/adc/include/esp32 /home/gustavosinbandera1/mos-libs/mqtt/include /home/gustavosinbandera1/mos-libs/shadow/include /home/gustavosinbandera1/mos-libs/aws/include /home/gustavosinbandera1/mos-libs/azure/include /home/gustavosinbandera1/mos-libs/bt-common/include /home/gustavosinbandera1/mos-libs/bt-common/include/esp32 /home/gustavosinbandera1/mos-libs/rpc-ws/include /home/gustavosinbandera1/mos-libs/dash/include /home/gustavosinbandera1/mos-libs/dht/include /home/gustavosinbandera1/mos-libs/dns-sd/include /home/gustavosinbandera1/mos-libs/gcp/include /home/gustavosinbandera1/mos-libs/neopixel/include /home/gustavosinbandera1/mos-libs/provision/include /home/gustavosinbandera1/mos-libs/rpc-loopback/include /home/gustavosinbandera1/mos-libs/rpc-mqtt/include /home/gustavosinbandera1/mos-libs/rpc-service-config/include /home/gustavosinbandera1/mos-libs/rpc-service-fs/include /home/gustavosinbandera1/mos-libs/rpc-service-gpio/include /home/gustavosinbandera1/mos-libs/rpc-service-ota/include /home/gustavosinbandera1/mos-libs/wifi/include /home/gustavosinbandera1/mos-libs/wifi/include/esp32 /home/gustavosinbandera1/mos-libs/rpc-uart/include /home/gustavosinbandera1/mos-libs/spi/include /home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/include /home/gustavosinbandera1/mos-libs/watson/include]
+Binary libs: [/home/gustavosinbandera1/binaries/libmbedtls-esp32-2.17.0.a /home/gustavosinbandera1/binaries/libmongoose-esp32-2.17.0.a /home/gustavosinbandera1/binaries/libota-common-esp32-2.17.0.a /home/gustavosinbandera1/binaries/libota-http-client-esp32-2.17.0.a /home/gustavosinbandera1/binaries/libota-http-server-esp32-2.17.0.a /home/gustavosinbandera1/binaries/libota-shadow-esp32-2.17.0.a /home/gustavosinbandera1/binaries/libdash-esp32-2.17.0.a /home/gustavosinbandera1/binaries/librpc-service-ota-esp32-2.17.0.a]
+Building...
+mount from "/home/gustavosinbandera1/mongoose-os/apps/demo-c" to "/app"
+mount from "/home/gustavosinbandera1/mos-libs/modules/mongoose-os" to "/mongoose-os"
+mount from "/home/gustavosinbandera1/mos-libs/modules/mongoose-os" to "/home/gustavosinbandera1/mos-libs/modules/mongoose-os"
+mount from "/home/gustavosinbandera1/mongoose-os/apps/demo-c/build" to "/home/gustavosinbandera1/mongoose-os/apps/demo-c/build"
+mount from "/home/gustavosinbandera1/mongoose-os/apps/demo-c/src" to "/home/gustavosinbandera1/mongoose-os/apps/demo-c/src"
+mount from "/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen" to "/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen"
+mount from "/home/gustavosinbandera1/mos-libs/freertos/src" to "/home/gustavosinbandera1/mos-libs/freertos/src"
+mount from "/home/gustavosinbandera1/mos-libs/i2c/src" to "/home/gustavosinbandera1/mos-libs/i2c/src"
+mount from "/home/gustavosinbandera1/mos-libs/i2c/src/esp32" to "/home/gustavosinbandera1/mos-libs/i2c/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/atca/src" to "/home/gustavosinbandera1/mos-libs/atca/src"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/host" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/host"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/mbedtls" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/mbedtls"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-common/src" to "/home/gustavosinbandera1/mos-libs/vfs-common/src"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-common/src/esp32" to "/home/gustavosinbandera1/mos-libs/vfs-common/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/src" to "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/src"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs" to "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1" to "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src" to "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs" to "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs"
+mount from "/home/gustavosinbandera1/mos-libs/core/src" to "/home/gustavosinbandera1/mos-libs/core/src"
+mount from "/home/gustavosinbandera1/mos-libs/ethernet/src" to "/home/gustavosinbandera1/mos-libs/ethernet/src"
+mount from "/home/gustavosinbandera1/mos-libs/ethernet/src/esp32" to "/home/gustavosinbandera1/mos-libs/ethernet/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/http-server/src" to "/home/gustavosinbandera1/mos-libs/http-server/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-common/src" to "/home/gustavosinbandera1/mos-libs/rpc-common/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-i2c/src" to "/home/gustavosinbandera1/mos-libs/rpc-service-i2c/src"
+mount from "/home/gustavosinbandera1/mongoose-os/custom-libs/Board/src" to "/home/gustavosinbandera1/mongoose-os/custom-libs/Board/src"
+mount from "/home/gustavosinbandera1/mongoose-os/custom-libs/Server/src" to "/home/gustavosinbandera1/mongoose-os/custom-libs/Server/src"
+mount from "/home/gustavosinbandera1/mos-libs/adc/src" to "/home/gustavosinbandera1/mos-libs/adc/src"
+mount from "/home/gustavosinbandera1/mos-libs/adc/src/esp32" to "/home/gustavosinbandera1/mos-libs/adc/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/mqtt/src" to "/home/gustavosinbandera1/mos-libs/mqtt/src"
+mount from "/home/gustavosinbandera1/mos-libs/shadow/src" to "/home/gustavosinbandera1/mos-libs/shadow/src"
+mount from "/home/gustavosinbandera1/mos-libs/aws/src" to "/home/gustavosinbandera1/mos-libs/aws/src"
+mount from "/home/gustavosinbandera1/mos-libs/sntp/src" to "/home/gustavosinbandera1/mos-libs/sntp/src"
+mount from "/home/gustavosinbandera1/mos-libs/azure/src" to "/home/gustavosinbandera1/mos-libs/azure/src"
+mount from "/home/gustavosinbandera1/mos-libs/bt-common/src" to "/home/gustavosinbandera1/mos-libs/bt-common/src"
+mount from "/home/gustavosinbandera1/mos-libs/bt-common/src/esp32" to "/home/gustavosinbandera1/mos-libs/bt-common/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/bt-service-debug/src" to "/home/gustavosinbandera1/mos-libs/bt-service-debug/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-ws/src" to "/home/gustavosinbandera1/mos-libs/rpc-ws/src"
+mount from "/home/gustavosinbandera1/mos-libs/dht/src" to "/home/gustavosinbandera1/mos-libs/dht/src"
+mount from "/home/gustavosinbandera1/mos-libs/dns-sd/src/lwip" to "/home/gustavosinbandera1/mos-libs/dns-sd/src/lwip"
+mount from "/home/gustavosinbandera1/mos-libs/dns-sd/src/mongoose" to "/home/gustavosinbandera1/mos-libs/dns-sd/src/mongoose"
+mount from "/home/gustavosinbandera1/mos-libs/fstab/src" to "/home/gustavosinbandera1/mos-libs/fstab/src"
+mount from "/home/gustavosinbandera1/mos-libs/gcp/src" to "/home/gustavosinbandera1/mos-libs/gcp/src"
+mount from "/home/gustavosinbandera1/mos-libs/neopixel/src" to "/home/gustavosinbandera1/mos-libs/neopixel/src"
+mount from "/home/gustavosinbandera1/mos-libs/provision/src" to "/home/gustavosinbandera1/mos-libs/provision/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-azure/src" to "/home/gustavosinbandera1/mos-libs/rpc-azure/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-gatts/src" to "/home/gustavosinbandera1/mos-libs/rpc-gatts/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-gcp/src" to "/home/gustavosinbandera1/mos-libs/rpc-gcp/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-loopback/src" to "/home/gustavosinbandera1/mos-libs/rpc-loopback/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-mqtt/src" to "/home/gustavosinbandera1/mos-libs/rpc-mqtt/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-atca/src" to "/home/gustavosinbandera1/mos-libs/rpc-service-atca/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-config/src" to "/home/gustavosinbandera1/mos-libs/rpc-service-config/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-fs/src" to "/home/gustavosinbandera1/mos-libs/rpc-service-fs/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-gpio/src" to "/home/gustavosinbandera1/mos-libs/rpc-service-gpio/src"
+mount from "/home/gustavosinbandera1/mos-libs/wifi/src" to "/home/gustavosinbandera1/mos-libs/wifi/src"
+mount from "/home/gustavosinbandera1/mos-libs/wifi/src/esp32" to "/home/gustavosinbandera1/mos-libs/wifi/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-wifi/src" to "/home/gustavosinbandera1/mos-libs/rpc-service-wifi/src"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-uart/src" to "/home/gustavosinbandera1/mos-libs/rpc-uart/src"
+mount from "/home/gustavosinbandera1/mos-libs/spi/src" to "/home/gustavosinbandera1/mos-libs/spi/src"
+mount from "/home/gustavosinbandera1/mos-libs/spi/src/esp32" to "/home/gustavosinbandera1/mos-libs/spi/src/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/src" to "/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/src"
+mount from "/home/gustavosinbandera1/mos-libs/watson/src" to "/home/gustavosinbandera1/mos-libs/watson/src"
+mount from "/home/gustavosinbandera1/mos-libs/demo-bundle/src" to "/home/gustavosinbandera1/mos-libs/demo-bundle/src"
+mount from "/home/gustavosinbandera1/mos-libs/freertos/include" to "/home/gustavosinbandera1/mos-libs/freertos/include"
+mount from "/home/gustavosinbandera1/mos-libs/i2c/include" to "/home/gustavosinbandera1/mos-libs/i2c/include"
+mount from "/home/gustavosinbandera1/mos-libs/atca/include" to "/home/gustavosinbandera1/mos-libs/atca/include"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/crypto" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/crypto"
+mount from "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/hal" to "/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/hal"
+mount from "/home/gustavosinbandera1/mos-libs/mbedtls/include" to "/home/gustavosinbandera1/mos-libs/mbedtls/include"
+mount from "/home/gustavosinbandera1/mos-libs/mbedtls/include/esp32" to "/home/gustavosinbandera1/mos-libs/mbedtls/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/mbedtls/mbedtls/include" to "/home/gustavosinbandera1/mos-libs/mbedtls/mbedtls/include"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-common/include" to "/home/gustavosinbandera1/mos-libs/vfs-common/include"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-common/include/esp32" to "/home/gustavosinbandera1/mos-libs/vfs-common/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/mongoose/include" to "/home/gustavosinbandera1/mos-libs/mongoose/include"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/include" to "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/include"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs" to "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1" to "/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include" to "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/spiffs" to "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/spiffs"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/esp32" to "/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/core/include" to "/home/gustavosinbandera1/mos-libs/core/include"
+mount from "/home/gustavosinbandera1/mos-libs/http-server/include" to "/home/gustavosinbandera1/mos-libs/http-server/include"
+mount from "/home/gustavosinbandera1/mos-libs/ota-common/include" to "/home/gustavosinbandera1/mos-libs/ota-common/include"
+mount from "/home/gustavosinbandera1/mos-libs/ota-common/include/esp32" to "/home/gustavosinbandera1/mos-libs/ota-common/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/ota-http-client/include" to "/home/gustavosinbandera1/mos-libs/ota-http-client/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-common/include" to "/home/gustavosinbandera1/mos-libs/rpc-common/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-i2c/include" to "/home/gustavosinbandera1/mos-libs/rpc-service-i2c/include"
+mount from "/home/gustavosinbandera1/mos-libs/adc/include" to "/home/gustavosinbandera1/mos-libs/adc/include"
+mount from "/home/gustavosinbandera1/mos-libs/adc/include/esp32" to "/home/gustavosinbandera1/mos-libs/adc/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/mqtt/include" to "/home/gustavosinbandera1/mos-libs/mqtt/include"
+mount from "/home/gustavosinbandera1/mos-libs/shadow/include" to "/home/gustavosinbandera1/mos-libs/shadow/include"
+mount from "/home/gustavosinbandera1/mos-libs/aws/include" to "/home/gustavosinbandera1/mos-libs/aws/include"
+mount from "/home/gustavosinbandera1/mos-libs/azure/include" to "/home/gustavosinbandera1/mos-libs/azure/include"
+mount from "/home/gustavosinbandera1/mos-libs/bt-common/include" to "/home/gustavosinbandera1/mos-libs/bt-common/include"
+mount from "/home/gustavosinbandera1/mos-libs/bt-common/include/esp32" to "/home/gustavosinbandera1/mos-libs/bt-common/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-ws/include" to "/home/gustavosinbandera1/mos-libs/rpc-ws/include"
+mount from "/home/gustavosinbandera1/mos-libs/dash/include" to "/home/gustavosinbandera1/mos-libs/dash/include"
+mount from "/home/gustavosinbandera1/mos-libs/dht/include" to "/home/gustavosinbandera1/mos-libs/dht/include"
+mount from "/home/gustavosinbandera1/mos-libs/dns-sd/include" to "/home/gustavosinbandera1/mos-libs/dns-sd/include"
+mount from "/home/gustavosinbandera1/mos-libs/gcp/include" to "/home/gustavosinbandera1/mos-libs/gcp/include"
+mount from "/home/gustavosinbandera1/mos-libs/neopixel/include" to "/home/gustavosinbandera1/mos-libs/neopixel/include"
+mount from "/home/gustavosinbandera1/mos-libs/provision/include" to "/home/gustavosinbandera1/mos-libs/provision/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-loopback/include" to "/home/gustavosinbandera1/mos-libs/rpc-loopback/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-mqtt/include" to "/home/gustavosinbandera1/mos-libs/rpc-mqtt/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-config/include" to "/home/gustavosinbandera1/mos-libs/rpc-service-config/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-fs/include" to "/home/gustavosinbandera1/mos-libs/rpc-service-fs/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-gpio/include" to "/home/gustavosinbandera1/mos-libs/rpc-service-gpio/include"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-service-ota/include" to "/home/gustavosinbandera1/mos-libs/rpc-service-ota/include"
+mount from "/home/gustavosinbandera1/mos-libs/wifi/include" to "/home/gustavosinbandera1/mos-libs/wifi/include"
+mount from "/home/gustavosinbandera1/mos-libs/wifi/include/esp32" to "/home/gustavosinbandera1/mos-libs/wifi/include/esp32"
+mount from "/home/gustavosinbandera1/mos-libs/rpc-uart/include" to "/home/gustavosinbandera1/mos-libs/rpc-uart/include"
+mount from "/home/gustavosinbandera1/mos-libs/spi/include" to "/home/gustavosinbandera1/mos-libs/spi/include"
+mount from "/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/include" to "/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/include"
+mount from "/home/gustavosinbandera1/mos-libs/watson/include" to "/home/gustavosinbandera1/mos-libs/watson/include"
+mount from "/home/gustavosinbandera1/mos-libs/ca-bundle/fs" to "/home/gustavosinbandera1/mos-libs/ca-bundle/fs"
+mount from "/home/gustavosinbandera1/mongoose-os/apps/demo-c/fs" to "/home/gustavosinbandera1/mongoose-os/apps/demo-c/fs"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/binaries" to "/home/gustavosinbandera1/binaries"
+mount from "/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen" to "/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen"
+Docker arguments: run --name mos_build_2020-07-31T16-04-10-00_4686948609687970106 --rm -i -v /home/gustavosinbandera1/mos-libs/dns-sd/src/lwip:/home/gustavosinbandera1/mos-libs/dns-sd/src/lwip -v /home/gustavosinbandera1/mos-libs/i2c/include:/home/gustavosinbandera1/mos-libs/i2c/include -v /home/gustavosinbandera1/mos-libs/mqtt/src:/home/gustavosinbandera1/mos-libs/mqtt/src -v /home/gustavosinbandera1/mos-libs/rpc-service-fs/include:/home/gustavosinbandera1/mos-libs/rpc-service-fs/include -v /home/gustavosinbandera1/mos-libs/atca/src:/home/gustavosinbandera1/mos-libs/atca/src -v /home/gustavosinbandera1/mos-libs/ethernet/src/esp32:/home/gustavosinbandera1/mos-libs/ethernet/src/esp32 -v /home/gustavosinbandera1/mos-libs/rpc-gcp/src:/home/gustavosinbandera1/mos-libs/rpc-gcp/src -v /home/gustavosinbandera1/mos-libs/ota-http-client/include:/home/gustavosinbandera1/mos-libs/ota-http-client/include -v /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs:/home/gustavosinbandera1/mongoose-os/apps/demo-c/fs -v /home/gustavosinbandera1/mos-libs/vfs-common/src/esp32:/home/gustavosinbandera1/mos-libs/vfs-common/src/esp32 -v /home/gustavosinbandera1/mos-libs/vfs-common/include/esp32:/home/gustavosinbandera1/mos-libs/vfs-common/include/esp32 -v /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/include:/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/include -v /home/gustavosinbandera1/mos-libs/wifi/include/esp32:/home/gustavosinbandera1/mos-libs/wifi/include/esp32 -v /home/gustavosinbandera1/mos-libs/i2c/src:/home/gustavosinbandera1/mos-libs/i2c/src -v /home/gustavosinbandera1/mos-libs/rpc-service-fs/src:/home/gustavosinbandera1/mos-libs/rpc-service-fs/src -v /home/gustavosinbandera1/mos-libs/rpc-uart/src:/home/gustavosinbandera1/mos-libs/rpc-uart/src -v /home/gustavosinbandera1/mos-libs/mbedtls/include/esp32:/home/gustavosinbandera1/mos-libs/mbedtls/include/esp32 -v /home/gustavosinbandera1/mos-libs/gcp/include:/home/gustavosinbandera1/mos-libs/gcp/include -v /home/gustavosinbandera1/mos-libs/watson/include:/home/gustavosinbandera1/mos-libs/watson/include -v /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/hal:/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/hal -v /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/spiffs:/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/spiffs -v /home/gustavosinbandera1/mos-libs/dash/include:/home/gustavosinbandera1/mos-libs/dash/include -v /home/gustavosinbandera1/mos-libs/rpc-azure/src:/home/gustavosinbandera1/mos-libs/rpc-azure/src -v /home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/src:/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/src -v /home/gustavosinbandera1/mos-libs/atca/include:/home/gustavosinbandera1/mos-libs/atca/include -v /home/gustavosinbandera1/mos-libs/provision/src:/home/gustavosinbandera1/mos-libs/provision/src -v /home/gustavosinbandera1/mos-libs/rpc-service-gpio/include:/home/gustavosinbandera1/mos-libs/rpc-service-gpio/include -v /home/gustavosinbandera1/mos-libs/rpc-ws/include:/home/gustavosinbandera1/mos-libs/rpc-ws/include -v /home/gustavosinbandera1/binaries:/home/gustavosinbandera1/binaries -v /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src:/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src -v /home/gustavosinbandera1/mos-libs/rpc-loopback/src:/home/gustavosinbandera1/mos-libs/rpc-loopback/src -v /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/esp32:/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include/esp32 -v /home/gustavosinbandera1/mos-libs/azure/include:/home/gustavosinbandera1/mos-libs/azure/include -v /home/gustavosinbandera1/mos-libs/freertos/src:/home/gustavosinbandera1/mos-libs/freertos/src -v /home/gustavosinbandera1/mos-libs/bt-service-debug/src:/home/gustavosinbandera1/mos-libs/bt-service-debug/src -v /home/gustavosinbandera1/mos-libs/mongoose/include:/home/gustavosinbandera1/mos-libs/mongoose/include -v /home/gustavosinbandera1/mos-libs/rpc-common/src:/home/gustavosinbandera1/mos-libs/rpc-common/src -v /home/gustavosinbandera1/mos-libs/rpc-service-config/src:/home/gustavosinbandera1/mos-libs/rpc-service-config/src -v /home/gustavosinbandera1/mos-libs/mbedtls/mbedtls/include:/home/gustavosinbandera1/mos-libs/mbedtls/mbedtls/include -v /home/gustavosinbandera1/mos-libs/rpc-mqtt/src:/home/gustavosinbandera1/mos-libs/rpc-mqtt/src -v /home/gustavosinbandera1/mos-libs/dns-sd/include:/home/gustavosinbandera1/mos-libs/dns-sd/include -v /home/gustavosinbandera1/mos-libs/ca-bundle/fs:/home/gustavosinbandera1/mos-libs/ca-bundle/fs -v /home/gustavosinbandera1/mos-libs/spi/include:/home/gustavosinbandera1/mos-libs/spi/include -v /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/mbedtls:/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/mbedtls -v /home/gustavosinbandera1/mos-libs/bt-common/src/esp32:/home/gustavosinbandera1/mos-libs/bt-common/src/esp32 -v /home/gustavosinbandera1/mos-libs/rpc-mqtt/include:/home/gustavosinbandera1/mos-libs/rpc-mqtt/include -v /home/gustavosinbandera1/mongoose-os/custom-libs/Board/src:/home/gustavosinbandera1/mongoose-os/custom-libs/Board/src -v /home/gustavosinbandera1/mos-libs/shadow/src:/home/gustavosinbandera1/mos-libs/shadow/src -v /home/gustavosinbandera1/mos-libs/adc/include/esp32:/home/gustavosinbandera1/mos-libs/adc/include/esp32 -v /home/gustavosinbandera1/mos-libs/spi/src/esp32:/home/gustavosinbandera1/mos-libs/spi/src/esp32 -v /home/gustavosinbandera1/mos-libs/watson/src:/home/gustavosinbandera1/mos-libs/watson/src -v /home/gustavosinbandera1/mos-libs/rpc-loopback/include:/home/gustavosinbandera1/mos-libs/rpc-loopback/include -v /home/gustavosinbandera1/mos-libs/rpc-service-ota/include:/home/gustavosinbandera1/mos-libs/rpc-service-ota/include -v /home/gustavosinbandera1/mos-libs/modules/mongoose-os:/mongoose-os -v /home/gustavosinbandera1/mos-libs/modules/mongoose-os:/home/gustavosinbandera1/mos-libs/modules/mongoose-os -v /home/gustavosinbandera1/mos-libs/spi/src:/home/gustavosinbandera1/mos-libs/spi/src -v /home/gustavosinbandera1/mos-libs/rpc-service-gpio/src:/home/gustavosinbandera1/mos-libs/rpc-service-gpio/src -v /home/gustavosinbandera1/mos-libs/rpc-service-i2c/include:/home/gustavosinbandera1/mos-libs/rpc-service-i2c/include -v /home/gustavosinbandera1/mos-libs/shadow/include:/home/gustavosinbandera1/mos-libs/shadow/include -v /home/gustavosinbandera1/mos-libs/bt-common/include:/home/gustavosinbandera1/mos-libs/bt-common/include -v /home/gustavosinbandera1/mos-libs/wifi/include:/home/gustavosinbandera1/mos-libs/wifi/include -v /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen:/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen -v /home/gustavosinbandera1/mongoose-os/custom-libs/Server/src:/home/gustavosinbandera1/mongoose-os/custom-libs/Server/src -v /home/gustavosinbandera1/mos-libs/rpc-ws/src:/home/gustavosinbandera1/mos-libs/rpc-ws/src -v /home/gustavosinbandera1/mos-libs/bt-common/src:/home/gustavosinbandera1/mos-libs/bt-common/src -v /home/gustavosinbandera1/mos-libs/rpc-service-atca/src:/home/gustavosinbandera1/mos-libs/rpc-service-atca/src -v /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include:/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/include -v /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/src:/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/src -v /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs:/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs -v /home/gustavosinbandera1/mos-libs/ethernet/src:/home/gustavosinbandera1/mos-libs/ethernet/src -v /home/gustavosinbandera1/mos-libs/sntp/src:/home/gustavosinbandera1/mos-libs/sntp/src -v /home/gustavosinbandera1/mos-libs/freertos/include:/home/gustavosinbandera1/mos-libs/freertos/include -v /home/gustavosinbandera1/mos-libs/rpc-service-config/include:/home/gustavosinbandera1/mos-libs/rpc-service-config/include -v /home/gustavosinbandera1/mos-libs/aws/src:/home/gustavosinbandera1/mos-libs/aws/src -v /home/gustavosinbandera1/mos-libs/ota-common/include:/home/gustavosinbandera1/mos-libs/ota-common/include -v /home/gustavosinbandera1/mos-libs/ota-common/include/esp32:/home/gustavosinbandera1/mos-libs/ota-common/include/esp32 -v /home/gustavosinbandera1/mos-libs/rpc-common/include:/home/gustavosinbandera1/mos-libs/rpc-common/include -v /home/gustavosinbandera1/mongoose-os/apps/demo-c/src:/home/gustavosinbandera1/mongoose-os/apps/demo-c/src -v /home/gustavosinbandera1/mos-libs/dns-sd/src/mongoose:/home/gustavosinbandera1/mos-libs/dns-sd/src/mongoose -v /home/gustavosinbandera1/mos-libs/neopixel/src:/home/gustavosinbandera1/mos-libs/neopixel/src -v /home/gustavosinbandera1/mos-libs/dht/src:/home/gustavosinbandera1/mos-libs/dht/src -v /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/host:/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/host -v /home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs:/home/gustavosinbandera1/mos-libs/vfs-fs-spiffs/src/spiffs -v /home/gustavosinbandera1/mos-libs/fstab/src:/home/gustavosinbandera1/mos-libs/fstab/src -v /home/gustavosinbandera1/mos-libs/dht/include:/home/gustavosinbandera1/mos-libs/dht/include -v /home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/include:/home/gustavosinbandera1/mos-libs/vfs-dev-spi-flash/include -v /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic:/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/basic -v /home/gustavosinbandera1/mos-libs/vfs-common/include:/home/gustavosinbandera1/mos-libs/vfs-common/include -v /home/gustavosinbandera1/mos-libs/core/include:/home/gustavosinbandera1/mos-libs/core/include -v /home/gustavosinbandera1/mos-libs/http-server/include:/home/gustavosinbandera1/mos-libs/http-server/include -v /home/gustavosinbandera1/mos-libs/neopixel/include:/home/gustavosinbandera1/mos-libs/neopixel/include -v /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib:/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib -v /home/gustavosinbandera1/mos-libs/rpc-service-i2c/src:/home/gustavosinbandera1/mos-libs/rpc-service-i2c/src -v /home/gustavosinbandera1/mos-libs/mbedtls/include:/home/gustavosinbandera1/mos-libs/mbedtls/include -v /home/gustavosinbandera1/mos-libs/azure/src:/home/gustavosinbandera1/mos-libs/azure/src -v /home/gustavosinbandera1/mos-libs/gcp/src:/home/gustavosinbandera1/mos-libs/gcp/src -v /home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/crypto:/home/gustavosinbandera1/mos-libs/atca/cryptoauthlib/lib/crypto -v /home/gustavosinbandera1/mos-libs/aws/include:/home/gustavosinbandera1/mos-libs/aws/include -v /home/gustavosinbandera1/mongoose-os/apps/demo-c:/app -v /home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1:/home/gustavosinbandera1/mos-libs/vfs-fs-lfs/littlefs1 -v /home/gustavosinbandera1/mos-libs/adc/src/esp32:/home/gustavosinbandera1/mos-libs/adc/src/esp32 -v /home/gustavosinbandera1/mos-libs/rpc-service-wifi/src:/home/gustavosinbandera1/mos-libs/rpc-service-wifi/src -v /home/gustavosinbandera1/mos-libs/adc/include:/home/gustavosinbandera1/mos-libs/adc/include -v /home/gustavosinbandera1/mos-libs/rpc-uart/include:/home/gustavosinbandera1/mos-libs/rpc-uart/include -v /home/gustavosinbandera1/mos-libs/i2c/src/esp32:/home/gustavosinbandera1/mos-libs/i2c/src/esp32 -v /home/gustavosinbandera1/mos-libs/vfs-common/src:/home/gustavosinbandera1/mos-libs/vfs-common/src -v /home/gustavosinbandera1/mos-libs/demo-bundle/src:/home/gustavosinbandera1/mos-libs/demo-bundle/src -v /home/gustavosinbandera1/mos-libs/core/src:/home/gustavosinbandera1/mos-libs/core/src -v /home/gustavosinbandera1/mos-libs/http-server/src:/home/gustavosinbandera1/mos-libs/http-server/src -v /home/gustavosinbandera1/mos-libs/adc/src:/home/gustavosinbandera1/mos-libs/adc/src -v /home/gustavosinbandera1/mos-libs/mqtt/include:/home/gustavosinbandera1/mos-libs/mqtt/include -v /home/gustavosinbandera1/mos-libs/provision/include:/home/gustavosinbandera1/mos-libs/provision/include -v /home/gustavosinbandera1/mongoose-os/apps/demo-c/build:/home/gustavosinbandera1/mongoose-os/apps/demo-c/build -v /home/gustavosinbandera1/mos-libs/wifi/src/esp32:/home/gustavosinbandera1/mos-libs/wifi/src/esp32 -v /home/gustavosinbandera1/mos-libs/bt-common/include/esp32:/home/gustavosinbandera1/mos-libs/bt-common/include/esp32 -v /home/gustavosinbandera1/mos-libs/rpc-gatts/src:/home/gustavosinbandera1/mos-libs/rpc-gatts/src -v /home/gustavosinbandera1/mos-libs/wifi/src:/home/gustavosinbandera1/mos-libs/wifi/src --user 1000:1000 docker.io/mgos/esp32-build:3.3-r2 /bin/bash -c nice make '-j' '4' '-C' '/app' '-f' '/home/gustavosinbandera1/mos-libs/modules/mongoose-os/platforms/esp32/Makefile.build' 'all' 'MGOS_VARS_FILE=/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/vars.mk'
+make: Entering directory '/app'
+/home/gustavosinbandera1/mos-libs/modules/mongoose-os/platforms/esp32/Makefile.build:179: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:82: warning: ignoring old recipe for target 'defconfig'
+/home/gustavosinbandera1/mos-libs/modules/mongoose-os/platforms/esp32/Makefile.build:179: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:69: warning: ignoring old recipe for target 'menuconfig'
+/home/gustavosinbandera1/mos-libs/modules/mongoose-os/platforms/esp32/Makefile.build:220: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:48: warning: ignoring old recipe for target 'clean'
+GENCONFIG
+#
+# configuration written to /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/sdkconfig
+#
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/mosapp'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/mosapp'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/tcpip_adapter'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/smartconfig_ack'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/tcpip_adapter'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/smartconfig_ack'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/partition_table'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/partition_table'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/micro-ecc'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/micro-ecc'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/log'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/log'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esptool_py'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esptool_py'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_ringbuf'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_ringbuf'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_adc_cal'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader'
+App "demo-c" version: 2.17.0
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace'
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update'
+/home/gustavosinbandera1/mos-libs/modules/mongoose-os/platforms/esp32/Makefile.build:220: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:48: warning: ignoring old recipe for target 'clean'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update'
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace/app_trace_util.o
+App "demo-c" version: 2.17.0
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update/esp_ota_ops.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace/host_file_io.o
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/bootloader_flash.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update/esp_app_desc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace/app_trace.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/flash_qio_mode.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update/libapp_update.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_update'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx'
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx/cxx_guards.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace/gcov/gcov_rtio.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/secure_boot_signatures.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace/libapp_trace.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/app_trace'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/spi_master.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/bootloader_utility.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/bootloader_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/secure_boot.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx/cxx_exception_stubs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/bootloader_clock.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx/libcxx.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/cxx'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse/esp32/esp_efuse_table.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/flash_partitions.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse/src/esp_efuse_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sigmadelta.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse/src/esp_efuse_utility.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/esp_image_format.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/uart.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse/src/esp_efuse_fields.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/bootloader_sha.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse/libefuse.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/efuse'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/flash_encrypt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump/src/core_dump_port.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump/src/core_dump_flash.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/src/bootloader_random.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump/src/core_dump_common.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support/libbootloader_support.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader_support'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_adc_cal'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_adc_cal/esp_adc_cal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump/src/core_dump_uart.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sdio_slave.o
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse'
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_adc_cal/libesp_adc_cal.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_adc_cal'
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump/libespcoredump.a
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event/default_event_loop.o
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/espcoredump'
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/main'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/system_api.o
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/main'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc'
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/micro-ecc'
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/spi_flash'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event/esp_event.o
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/log'
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/log'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/stack_check.o
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/esptool_py'
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/esptool_py'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/i2c.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/esp_adapter.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event/esp_event_private.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event/libesp_event.a
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/lib_printf.o
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_event'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_ringbuf'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_ringbuf/ringbuf.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/task_wdt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sdspi_transaction.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/ledc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/sleep_modes.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_ringbuf/libesp_ringbuf.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp_ringbuf'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/emac_dev.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/emac_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/dbg_stubs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/spiram.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/spi_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/cache_sram_mmu.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/eth_phy/phy_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/restore.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/eth_phy/phy_lan8720.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/eth_phy/phy_ip101.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/pm_locks.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sdspi_host.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/eth_phy/phy_tlk110.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/event_default_handlers.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet/libethernet.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ethernet'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/expat/expat/lib/loadlibrary.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/expat/expat/lib/xmlparse.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/phy_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/gpio.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/pm_trace.o
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_flash.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/spiram_psram.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/pcnt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/cache_err_int.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/flash_qio_mode.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/esp_timer_esp32.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/secure_boot_signatures.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sdspi_crc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/rmt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/clk.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_utility.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/panic.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/freertos_hooks.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/mcpwm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/secure_boot.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/gdbstub.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/expat/expat/lib/xmltok.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_clock.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/flash_partitions.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/esp_image_format.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/crosscore_int.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/cpu_start.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_sha.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sdmmc_transaction.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/flash_encrypt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/ets_timer_legacy.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/src/bootloader_random.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/can.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/ipc.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support/libbootloader_support.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/log'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/log/log.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/intr_alloc.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/log/liblog.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/log'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/spi_flash'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/spi_flash/spi_flash_rom_patch.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/spi_slave.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/spi_flash/libspi_flash.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/spi_flash'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/reset_reason.o
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/micro-ecc'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/micro-ecc/micro-ecc/uECC.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/coexist.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/i2s.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/fast_crypto_ops.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/wifi_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/event_loop.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/micro-ecc/libmicro-ecc.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/soc_memory_layout.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/pm_esp32.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_pm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/expat/expat/lib/xmlrole.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/cpu_util.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/esp_err_to_name.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/sdmmc_host.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/sdmmc_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_wdt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/sdio_slave_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/expat/expat/lib/xmltok_ns.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/hw_random.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/expat/expat/lib/xmltok_impl.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat/libexpat.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/expat'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_intr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/esp_timer.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/spi_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/timer.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_clk_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/queue.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/gpio_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/dport_access.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_sleep.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_time.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/periph_ctrl.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/esp_himem.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/croutine.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/esp32/rtc_clk.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/rtc_module.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/brownout.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/list.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/src//memory_layout_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/int_wdt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_init.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc/libsoc.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/soc'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/main'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/main/bootloader_start.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/hwcrypto/sha.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/port.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/main/libmain.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/main'
+make[2]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse/esp32/esp_efuse_table.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse/src/esp_efuse_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/event_groups.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/hwcrypto/aes.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse/src/esp_efuse_utility.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/tasks.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver/libdriver.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/driver'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap/heap_caps_init.o
+AS /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/dport_panic_highint_hdl.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse/src/esp_efuse_fields.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32/libesp32.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/esp32'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap/heap_caps.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse/libefuse.a
+make[2]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/efuse'
+LD /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader.elf
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap/multi_heap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap/heap_trace.o
+esptool.py v2.8-dev
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/log'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/log/log.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/timers.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/FreeRTOS-openocd.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap/libheap.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/heap'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip'
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/log/liblog.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/log'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_overlay_os_hook.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/apps/dhcpserver/dhcpserver.o
+AS /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_intr_asm.o
+AS /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_context.o
+AS /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_vectors.o
+AS /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/xtensa_vector_defaults.o
+AS /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/portasm.o
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/micro-ecc'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/time.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/micro-ecc/micro-ecc/uECC.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos/libfreertos.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/freertos'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash'
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_types.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/termios.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/apps/ping/ping.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/syscalls.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/syscall_table.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/apps/ping/esp_ping.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_ops.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/micro-ecc/libmicro-ecc.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/micro-ecc'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/netdb.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_page.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/poll.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/api_lib.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/utime.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/netifapi.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/reent_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/locks.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/random.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/tcpip.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/pthread.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/select.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_item_hash_list.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/netbuf.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib/libnewlib.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/newlib'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread/pthread_local_storage.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/err.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread/pthread_cond_var.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_encr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/api_msg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread/pthread.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_pagemanager.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread/libpthread.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/pthread'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/soc_memory_layout.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_pm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/api/sockets.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/apps/sntp/sntp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/cpu_util.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/sdmmc_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_wdt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/mem.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_storage.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/sdio_slave_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/inet_chksum.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/spi_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_clk_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/gpio_periph.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_sleep.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/memp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/sys.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_time.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/tcp_in.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/esp32/rtc_clk.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/timeouts.o
+CXX /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/src/nvs_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/src//memory_layout_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/dns.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc/libsoc.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/soc'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash/flash_mmap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ip.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash/partition.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/raw.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/tcp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash/spi_flash_rom_patch.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash/cache_utils.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash/libnvs_flash.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/nvs_flash'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/smartconfig_ack'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/smartconfig_ack/smartconfig_ack.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash/flash_ops.o
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/tcpip_adapter'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/tcpip_adapter/tcpip_adapter_lwip.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/pbuf.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/smartconfig_ack/libsmartconfig_ack.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/smartconfig_ack'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs/vfs_uart.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash/libspi_flash.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spi_flash'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/netif.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/tcpip_adapter/libtcpip_adapter.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/tcpip_adapter'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module/eri.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module/trax.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs/vfs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module/libxtensa-debug-module.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/xtensa-debug-module'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/mosapp'
+  GEN   /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/mgos_config.c
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/sha1.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/stats.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/def.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs/libvfs.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/vfs'
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/spiffs_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/des-internal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/udp.o
+  GEN   /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/mgos_ro_vars.c
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/esp_spiffs.o
+AS esp32_nsleep100.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+CXX main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/tcp_out.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/spiffs/src/spiffs_cache.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/spiffs/src/spiffs_gc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls.o
+CC mgos_deps_init.o
+CC mgos_freertos.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/spiffs/src/spiffs_nucleus.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/ip4_frag.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/dhcp.o
+CC mgos_freertos_core_dump.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+CC mgos_i2c_master.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC esp32_i2c_master.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/spiffs/src/spiffs_check.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/etharp.o
+CC mgos_atca.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/md5.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+CC mgos_atca_hal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/spiffs/src/spiffs_hydrogen.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/ip4_addr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+CC atca_cfgs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/igmp.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs/libspiffs.a
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/spiffs'
+CC atca_command.o
+make[1]: Entering directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt'
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/crypto/bignum.o
+CC atca_device.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bt.o
+CC atca_execution.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/ip4.o
+CC atca_iface.o
+CC atca_basic.o
+CC atca_basic_aes.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/autoip.o
+CC atca_basic_aes_cbc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/port/os_xtensa.o
+CC atca_basic_aes_cmac.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv4/icmp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-wrap.o
+CC atca_basic_aes_ctr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256-internal.o
+CC atca_basic_aes_gcm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/ip6_frag.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-cbc.o
+CC atca_basic_checkmac.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal.o
+CC atca_basic_counter.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_sco.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/dhcp6.o
+CC atca_basic_derivekey.o
+CC atca_basic_ecdh.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-unwrap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_co.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/inet6.o
+CC atca_basic_gendig.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-modexp.o
+CC atca_basic_genkey.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-cipher.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/ip6_addr.o
+CC atca_basic_hmac.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap.o
+CC atca_basic_info.o
+CC atca_basic_kdf.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/ip6.o
+CC atca_basic_lock.o
+CC atca_basic_mac.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_common.o
+CC atca_basic_nonce.o
+CC atca_basic_privwrite.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/mschapv2.o
+CC atca_basic_random.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/nd6.o
+CC atca_basic_read.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls_common.o
+CC atca_basic_secureboot.o
+CC atca_basic_selftest.o
+CC atca_basic_sha.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_ttls.o
+CC atca_basic_sign.o
+CC atca_basic_updateextra.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_pm.o
+CC atca_basic_verify.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/mld6.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap.o
+CC atca_basic_write.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_ci.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/ethip6.o
+CC atca_helpers.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/dm/bta_dm_cfg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/core/ipv6/icmp6.o
+CC atca_host.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_mschapv2.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/slipif.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/chap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gatt_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_record.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ethernet.o
+CC atca_mbedtls_wrap.o
+CC mgos_vfs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/x509v3.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/lowpan6.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ethernetif.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_co.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/port/esp32/vfs_lwip.o
+CC mgos_vfs_dev.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_cred.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/port/esp32/freertos/sys_arch.o
+CC mgos_vfs_internal.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_cache.o
+CC esp32_fs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_read.o
+CC esp32_vfs_dev_partition.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/port/esp32/netif/wlanif.o
+CC mgos_vfs_lfs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/port/esp32/netif/dhcp_state.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/rsa.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/port/esp32/netif/ethernetif.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_main.o
+CC lfs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/pkcs8.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/asn1.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/port/esp32/debug/lwip_debug.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/eap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_read.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/pppol2tp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_co.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/magic.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_write.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/pppapi.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_utils.o
+CC lfs_util.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/pkcs1.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/chap_ms.o
+CC lfs1.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/pkcs5.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/pppoe.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/ecp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/bignum.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/chap-md5.o
+CC lfs1_util.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/vj.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_ci.o
+CC mgos_vfs_fs_spiffs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_write.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gattc_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/ipv6cp.o
+CC spiffs_cache.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/tls/tls_internal.o
+CC spiffs_check.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/utils/base64.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/ccp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wpa2/utils/ext_password.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/eap_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/gatt/bta_gatts_utils.o
+CC spiffs_gc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_attr_process.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/chap-new.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hh/bta_hh_api.o
+CC spiffs_hydrogen.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_validate.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hh/bta_hh_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hh/bta_hh_le.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/auth.o
+CC spiffs_nucleus.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hh/bta_hh_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hh/bta_hh_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hh/bta_hh_cfg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_attr_parse.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/pppcrypt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_dev_attr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/multilink.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps.o
+CC mgos_core.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp_cfg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/mppe.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sdp/bta_sdp_api.o
+CC mgos_eth.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/pppos.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_registrar.o
+CC esp32_eth.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_ssm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_ci.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/ipcp.o
+CC mgos_http_server.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_act.o
+CC mg_rpc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_sbc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_attr_build.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_aact.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/ppp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/av/bta_av_cfg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/uuid.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/src/wps/wps_enrollee.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/ar/bta_ar.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/lcp.o
+CC mg_rpc_channel.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sys/bta_sys_main.o
+CC mg_rpc_channel_http.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant/libwpa_supplicant.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/wpa_supplicant'
+  MKDIR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp
+  MKDIR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/fw
+Building partitions from /mongoose-os/platforms/esp32/src/partitions_mgos.csv...
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sys/utl.o
+CC mgos_rpc.o
+CC mgos_i2c_service.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/sys/bta_sys_conn.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/eui64.o
+CXX mgos_board.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/jv/bta_jv_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/demand.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/jv/bta_jv_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/jv/bta_jv_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/upap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/fsm.o
+CXX mgos_server.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/jv/bta_jv_cfg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/polarssl/des.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/polarssl/sha1.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_rfc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_api.o
+/home/gustavosinbandera1/mongoose-os/custom-libs/Server/src/mgos_server.cpp:5:20: warning: 's_http_port' defined but not used [-Wunused-variable]
+ static const char *s_http_port = "8000";
+                    ^
+/home/gustavosinbandera1/mongoose-os/custom-libs/Server/src/mgos_server.cpp:6:34: warning: 's_http_server_opts' defined but not used [-Wunused-variable]
+ static struct mg_serve_http_opts s_http_server_opts;
+                                  ^
+CC esp32_adc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_sco.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_sdp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/polarssl/md4.o
+CC mgos_mqtt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/polarssl/md5.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_at.o
+CC mgos_shadow.o
+CC mgos_mqtt_conn.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/lwip/src/netif/ppp/polarssl/arc4.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_cmd.o
+CC mgos_aws.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip/liblwip.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/lwip'
+CC mgos_aws_greengrass.o
+CC mgos_aws_shadow.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/device/interop.o
+CC mgos_sntp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/device/bdaddr.o
+CC mgos_azure.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/device/controller.o
+CC mgos_azure_cm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/hci/hci_hal_h4.o
+CC mgos_azure_dm.o
+CC mgos_azure_sas.o
+CC mgos_azure_shadow.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/hci/hci_packet_parser.o
+CC mgos_bt.o
+CC mgos_bt_gap.o
+CC mgos_bt_js.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/hci/hci_audio.o
+CC esp32_bt.o
+CC esp32_bt_gap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/hci/packet_fragmenter.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/hci/hci_layer.o
+CC esp32_bt_gattc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/hci/hci_packet_factory.o
+CC esp32_bt_gatts.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/main/bte_main.o
+CC mgos_bt_svc_debug.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/main/bte_init.o
+CC mgos_rpc_channel_ws.o
+CC mgos_rpc_ws.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/future.o
+CC mgos_dht.o
+CC lwip_mdns.o
+CC mgos_dns_sd.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/list.o
+CC mgos_mdns.o
+CC mgos_fstab.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/semaphore.o
+CC mgos_gcp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/hash_map.o
+CC mgos_neopixel.o
+CC mgos_provision.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/fixed_queue.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/config.o
+CC mgos_provision_btn.o
+CC mgos_provision_led.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/osi.o
+CC mgos_provision_state.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/mutex.o
+CC mgos_rpc_channel_azure_dm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/hash_functions.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/alarm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/buffer.o
+CC mgos_rpc_channel_gatts.o
+CC mgos_rpc_channel_gcp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/osi/allocator.o
+CC mg_rpc_channel_loopback.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitstream-decode.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-sbc.o
+CC mgos_rpc_channel_mqtt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-oina.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-dct8.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing.o
+CC mgos_atca_service.o
+CC mgos_service_config.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/dequant.o
+CC mgos_service_fs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/alloc.o
+CC mgos_gpio_service.o
+CC mgos_wifi.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc-sbc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-private.o
+CC mjs_wifi.o
+CC esp32_wifi.o
+CC mgos_rpc_service_wifi.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-8-generated.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing-sbc.o
+CC mgos_rpc_channel_uart.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/oi_codec_version.o
+CC mgos_spi.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-sbc.o
+CC mgos_spi_mjs.o
+CC esp32_spi_master.o
+CC mgos_vfs_dev_spi_flash.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_packing.o
+CC mgos_watson.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_dct.o
+CC mgos_demo_bundle.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_bit_alloc_ste.o
+  GEN   /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/ffi_exports.c
+CC mgos_debug.o
+CC mgos_net.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_analysis.o
+CC mgos_bitbang.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_coeffs.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_bit_alloc_mono.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_dct_coeffs.o
+CC mgos_config_util.o
+CC mgos_core_dump.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_encoder.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_task.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_main.o
+CC mgos_dlsym.o
+CC mgos_event.o
+CC mgos_gpio.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_util.o
+CC mgos_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_storage.o
+CC mgos_mmap_esp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_ble_storage.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_sm.o
+CC mgos_sys_config.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_profile_queue.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_alarm.o
+CC mgos_config.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_manage.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_sec.o
+CC mgos_ro_vars.o
+CC mgos_file_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_config.o
+CC mgos_hw_timers.o
+CC mgos_system.o
+CC mgos_time.o
+CC mgos_timers.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_dev.o
+CC mgos_uart.o
+CC mgos_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/core/btc_dm.o
+CC esp32_crypto.o
+CC esp32_debug.o
+CC esp32_exc.o
+CC esp32_fs_crypt.o
+CC esp32_gpio.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_prf.o
+CC esp32_hal.o
+CC esp32_hw_timers.o
+CC esp32_main.o
+CC esp32_uart.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_protocol.o
+CXX error_codes.o
+CXX status.o
+CC cs_crc32.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_bt.o
+CC cs_file.o
+CC cs_hex.o
+CC cs_rbuf.o
+CC json_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_ble.o
+CC frozen.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ffi_exports.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gattc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_util.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatts.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_common.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_source.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/bta_av_co.o
+  GEN   /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/build_info.c
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp.o
+Generating libapp_trace.a.sections_info
+Generating libapp_update.a.sections_info
+Generating libbootloader_support.a.sections_info
+  GEN   /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/mg_build_info.c
+Generating libcxx.a.sections_info
+Generating libdriver.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_sink.o
+Generating libefuse.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_av.o
+Generating libespcoredump.a.sections_info
+Generating libesp_adc_cal.a.sections_info
+Generating libesp_event.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_control.o
+CC build_info.o
+CC mg_build_info.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/mosapp/libmosapp.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/mosapp'
+Generating libesp32.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/avrc/btc_avrc.o
+Generating libesp_ringbuf.a.sections_info
+Generating libethernet.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/spp/btc_spp.o
+Generating libexpat.a.sections_info
+Generating libfreertos.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/hf_client/bta_hf_client_co.o
+Generating libheap.a.sections_info
+Generating liblog.a.sections_info
+Generating liblwip.a.sections_info
+Generating libmicro-ecc.a.sections_info
+Generating libnewlib.a.sections_info
+Generating libnvs_flash.a.sections_info
+Generating libpthread.a.sections_info
+Generating libsoc.a.sections_info
+Generating libspi_flash.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/btc/profile/std/hf_client/btc_hf_client.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_batchscan.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_cont_energy.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_sec.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_pm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_adv_filter.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_inq.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_devctl.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_privacy.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_acl.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_bgconn.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_dev.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_gap.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_multi_adv.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_ble_addr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btm/btm_sco.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btu/btu_hcif.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btu/btu_task.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/btu/btu_init.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gap/gap_ble.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gap/gap_conn.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gap/gap_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gap/gap_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_db.o
+Generating libsmartconfig_ack.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_cl.o
+Generating libtcpip_adapter.a.sections_info
+Generating libvfs.a.sections_info
+Generating libwpa_supplicant.a.sections_info
+Generating libxtensa-debug-module.a.sections_info
+Generating libspiffs.a.sections_info
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_attr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_sr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/att_protocol.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_auth.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/gatt/gatt_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/hcic/hciblecmds.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/hcic/hcicmds.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_ble.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_ucd.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2cap_client.o
+
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_csm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_link.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/l2cap/l2c_fcr.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/sdp/sdp_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/sdp/sdp_db.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/sdp/sdp_discovery.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/sdp/sdp_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/sdp/sdp_server.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/sdp/sdp_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_keys.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/p_256_ecc_pp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_cmac.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_br_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/aes.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/p_256_multprecision.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/p_256_curvepara.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/smp/smp_l2c.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avct/avct_lcb.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avct/avct_lcb_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avct/avct_l2c.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avct/avct_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avct/avct_ccb.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_pars_ct.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_opt.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_bld_ct.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_pars_tg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_bld_tg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avrc/avrc_sdp.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_l2c.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_ccb.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_ccb_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_scb.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_msg.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_scb_act.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/avdt/avdt_ad.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/a2dp/a2d_sbc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/a2dp/a2d_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/rfc_port_if.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/rfc_mx_fsm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/port_rfc.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/port_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/port_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/rfc_port_fsm.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/rfc_l2cap_if.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/rfc_ts_frames.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/stack/rfcomm/rfc_utils.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_avrc_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_spp_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_bt_main.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_bt_device.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_gap_bt_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_a2dp_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_gatts_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_blufi_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_gap_ble_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_gattc_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_gatt_common_api.o
+CC /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/bluedroid/api/esp_hf_client_api.o
+AR /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt/libbt.a
+make[1]: Leaving directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bt'
+Generating libmosapp.a.sections_info
+Generating libbt.a.sections_info
+Generating esp32.project.ld
+LD /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/demo-c.elf
+esptool.py v2.8-dev
+    App size: 1477328 of 1572864 (93%)
+  CP    /home/gustavosinbandera1/mos-libs/ca-bundle/fs/ca.pem -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/about.html -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/conf8.json -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/css -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+cp: -r not specified; omitting directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/css'
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/favicon.png -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/home.html -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/img -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+cp: -r not specified; omitting directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/img'
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/js -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+cp: -r not specified; omitting directory '/home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/js'
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/relay.html -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/relay_scripts.js -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/siimple.min.css -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/smoothie_min.js -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/style.css -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/fs/websocket.html -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  CP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/gen/conf0.json -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 {bs:4096,ps:256,es:4096} /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fs -> /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/fs.img
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding websocket.html: 4336
+       Adding relay_scripts.js: 1132
+       Adding conf0.json: 3
+       Adding style.css: 2381
+       Adding about.html: 847
+       Adding favicon.png: 760
+       Adding home.html: 2151
+       Adding siimple.min.css: 5774
+       Adding smoothie_min.js: 13778
+       Adding conf8.json: 120
+       Adding relay.html: 3355
+       Adding ca.pem: 30849
+     FS stats : space total=233681, used=70531, free=163150
+  GEN    /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/manifest.json
+  ZIP    /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/fw/demo-c-esp32-last.zip
+     Adding /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/bootloader.bin
+     Adding /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/demo-c.bin
+     Adding /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/fs.img
+     Adding /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/otadata.bin
+     Adding /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/fw_temp/partitions_mgos.bin
+  Built demo-c/esp32 version 1.0 (20200731-210507/latest-g8037c32-master-dirty)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 40m --flash_size detect 0xd000 /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/ota_data_initial.bin 0x1000 /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/bootloader/bootloader.bin 0x10000 /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/demo-c.bin 0x8000 /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/objs/partitions_mgos.bin
+make: Leaving directory '/app'
+Success, built demo-c/esp32 version 1.0 (20200731-210507/latest-g8037c32-master-dirty).
+Firmware saved to /home/gustavosinbandera1/mongoose-os/apps/demo-c/build/fw.zip
